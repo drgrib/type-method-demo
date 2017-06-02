@@ -1,4 +1,4 @@
-package typemethod
+package typemethods
 
 import (
 	"fmt"
