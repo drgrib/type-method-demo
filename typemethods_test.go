@@ -1,4 +1,4 @@
-package typesort
+package typemethod
 
 import (
 	"sort"
